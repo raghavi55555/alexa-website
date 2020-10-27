@@ -12,6 +12,7 @@
  1. This web application is an working model as a chatbot 
  2. This application involves 4 files
  3. A javascript file where all the backend work is done,a json file where data is stored,a html file and a css file for the front end
+ 
  ## Javascript
  1. It involves 5 functions
 2. Greeting()This function is for the beginning of the application which surely greets the user based on time from the time_Of_The_Day() function
@@ -25,14 +26,16 @@ This file has complete data about all 194 countries and continents.it is the mai
  This file contains the data of the "menu" that is to be displayed.
  
 ## HTML:
-  This file make sure the user is in connection with the backend
+ This file make sure the user is in connection with the backend
+
 ## CSS:
   This file provides neat and good styling to the html file.
-## Mock up Design:
 
+## Mock up Design:
+![alt text](https://github.com/raghavi55555/alexa-website/blob/main/Screenshot%20(319).png)
 
 ## Demo Vedio:
-
+[https://youtu.be/fyRmncsxEV0](https://youtu.be/fyRmncsxEV0)
 
 ## repl.it link:
 [https://chatbot.18pa1a05a1.repl.co/](https://chatbot.18pa1a05a1.repl.co/)
