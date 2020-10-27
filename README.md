@@ -21,6 +21,7 @@
 6. This file also involves some exceptions that are handled so that it would pretty comfortable for the user to use the application
 
 ## Json:
+This file has complete data about all 194 countries and continents.it is the main data collection for this bot.
  This file contains the data of the "menu" that is to be displayed.
  
 ## HTML:
@@ -34,6 +35,7 @@
 
 
 ## repl.it link:
-
+[https://chatbot.18pa1a05a1.repl.co/](https://chatbot.18pa1a05a1.repl.co/)
 
 ## Reference Link:
+[https://www.w3schools.com/js/default.asp](https://www.w3schools.com/js/default.asp)
