@@ -1,5 +1,5 @@
 # alexa-website
-
+![alt text](https://github.com/raghavi55555/alexa-website/blob/main/Screenshot%20(325).png)
 ## Team members
  Raghavi Munnelli(18PA1A05A1)
  
